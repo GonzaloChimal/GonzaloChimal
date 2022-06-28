@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-#
-###  Programming languagues & tools 🛠
 
+###  Programming languagues & tools 🛠
+#
 <table width="100" align="center">
 <tr>
     <td align='center' width="190">
@@ -55,5 +55,3 @@ You can click the Preview link to take a look at your changes.
     </td>
 </tr>
 </table>
-
-  
