@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" width="60">
     </td>
 	  <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
     </td>
 </tr>
  
