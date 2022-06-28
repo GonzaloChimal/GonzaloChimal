@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
     <td align='center' width="190" >
-       <img src="https://img1.freepng.es/20181110/wcw/kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b364874235.266374061541911396554.jpg" width="60">
+       <img src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates-thumbnail.png" width="60">
     </td>
      <td align='center' width="190">
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
