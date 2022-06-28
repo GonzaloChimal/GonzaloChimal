@@ -7,6 +7,16 @@ GonzaloChimal/GonzaloChimal is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+###  Insignias Alura Latam 🥇
+
+<p align="center">
+  <img  width="150"  src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
+  <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
+  <img  width="150" src="https://user-images.githubusercontent.com/89808639/175804421-0cee4c26-662f-4cf7-862d-458cd647362d.png">
+</p>
+
+<br><br>
+
 ###  Lenguajes y herramientas 🛠
 
 <table width="100" align="center">
@@ -40,11 +50,5 @@ You can click the Preview link to take a look at your changes.
     </td>
 </tr>
  
-###  Insignias Alura Latam 🥇
 
-<p align="center">
-  <img  width="150"  src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
-  <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
-  <img  width="150" src="https://user-images.githubusercontent.com/89808639/175804421-0cee4c26-662f-4cf7-862d-458cd647362d.png">
-</p>
   
