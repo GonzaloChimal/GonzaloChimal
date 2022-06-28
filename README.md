@@ -6,9 +6,11 @@
 GonzaloChimal/GonzaloChimal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br><br>
+#
 
 ###  Insignias Alura Latam 🥇
-
+#
 <p align="center">
   <img  width="150"  src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
   <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
@@ -17,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
+#
 ###  Lenguajes y herramientas 🛠
 
 <table width="100" align="center">
@@ -28,7 +31,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60">
     </td>
     <td align='center' width="190" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" width="60">
     </td>
      <td align='center' width="190">
         <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
