@@ -54,6 +54,6 @@ You can click the Preview link to take a look at your changes.
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
     </td>
 </tr>
- 
+</table>
 
   
