@@ -35,15 +35,6 @@ You can click the Preview link to take a look at your changes.
   
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
-    </td>
-    <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60">
     </td>
     <td align='center' width="190" >
@@ -52,11 +43,20 @@ You can click the Preview link to take a look at your changes.
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>   
     <td align='center' width="190" >
        <img src="https://www.insisoc.org/wp-content/uploads/2019/05/Logo-cuadrado-con-letra-Power-BI.png" width="60">
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
     </td>
 </tr>
 
