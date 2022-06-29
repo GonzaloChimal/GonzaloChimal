@@ -14,9 +14,15 @@ You can click the Preview link to take a look at your changes.
 ###  Badge Oracle & Alura Latam (ONE) 🥇
 #
 <p align="center">
-  <img  width="150"  src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
-  <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
-  <img  width="150" src="https://user-images.githubusercontent.com/89808639/175804421-0cee4c26-662f-4cf7-862d-458cd647362d.png">
+  <a href="https://gonzalochimal.github.io/Challenge01-Encriptador/">
+    <img  width="150"  src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
+  </a>
+  <a href="https://gonzalochimal.github.io/Challenge02-ahorcado/"> 
+    <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
+  </a>
+  <a href="https://gonzalochimal.github.io/Challenge-03-MiPortafolio/">
+    <img  width="150" src="https://user-images.githubusercontent.com/89808639/175804421-0cee4c26-662f-4cf7-862d-458cd647362d.png">
+  </a>
 </p>
 
 <br>
