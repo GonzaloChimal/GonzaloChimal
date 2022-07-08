@@ -23,6 +23,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://gonzalochimal.github.io/Challenge-03-MiPortafolio/">
     <img  width="150" src="https://user-images.githubusercontent.com/89808639/175804421-0cee4c26-662f-4cf7-862d-458cd647362d.png">
   </a>
+  <a href="https://gonzalochimal.github.io/Challenge-03-MiPortafolio/">
+    <img  width="150" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1650485464insignia.png?utm_campaign=alura_latam_-_challenge_email_projeto_4_esp&utm_medium=email&utm_source=RD+Station">
+  </a>
 </p>
 
 <br>
