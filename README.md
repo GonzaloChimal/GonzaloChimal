@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 #
 <p align="center">
   <a href="https://www.credly.com/badges/c6b6d0f4-25a0-424c-b9a0-7e261b36ac82/public_url"> 
-    <img  width="150" src="https://user-images.githubusercontent.com/27865066/178057922-fa8531ed-fa7b-4cd1-a82b-144c3367d20a.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img  width="150" src="https://user-images.githubusercontent.com/27865066/178058083-6e5bce4e-ab37-4f7b-af1b-11e45c8b9390.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   </a>
   <a href="https://www.credly.com/badges/9c4d2ce0-886e-4b61-b541-3bc757c98784/public_url">
     <img  width="150"  src="https://user-images.githubusercontent.com/27865066/178056615-15973c43-95be-4a87-90b1-a81828951e2d.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
     <img  width="150" src="https://user-images.githubusercontent.com/27865066/178056795-73b75be2-6aba-491c-af26-4f96511172f2.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   </a>
 </p>
+
 
 
 ###  Programming languagues & tools 🛠
