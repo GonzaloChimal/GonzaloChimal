@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 #
 <p align="center">
   <a href="https://gonzalochimal.github.io/Challenge01-Encriptador/">
-    <img  width="150"  src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
+    <img  width="150" heigth="150" src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
   </a>
   <a href="https://gonzalochimal.github.io/Challenge02-ahorcado/"> 
     <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
