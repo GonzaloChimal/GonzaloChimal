@@ -1,7 +1,7 @@
 ###  About me
 #
 
-- 👋 Hi, I’m @GonzaloChimal
+- 👋 Hi, I’m Gonzalo Duran Chimal
 - 👀 I’m interested in front end, data analyst, data visualization.
 - 🌱 I’m currently learning data analyst in Coursera by Google and programming in Oracle Next Education - Alura LATAM.
 
