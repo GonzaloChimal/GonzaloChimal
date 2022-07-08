@@ -30,6 +30,23 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+###  Badge IBM 🥇
+#
+<p align="center">
+  <a href="https://www.credly.com/badges/c6b6d0f4-25a0-424c-b9a0-7e261b36ac82/public_url"> 
+    <img  width="150" src="https://user-images.githubusercontent.com/27865066/178056032-6d2c7054-f9f4-49f5-bd46-ff35ea5f71ab.png">
+  </a>
+  <a href="https://www.credly.com/badges/9c4d2ce0-886e-4b61-b541-3bc757c98784/public_url">
+    <img  width="150"  src="https://user-images.githubusercontent.com/27865066/178055968-5206e7ca-c868-456a-ac1e-79aeee4f31cd.png">
+  </a>  
+  <a href="https://www.credly.com/badges/fc7771f8-cb6e-40c3-a6ca-11762567cd00/public_url">
+    <img  width="150" src="https://user-images.githubusercontent.com/27865066/178056185-dc2a630b-02e8-48f3-85f4-3d4da8ee7dab.png">
+  </a>
+  <a href="https://www.credly.com/badges/c92b5f9e-0187-4777-9e57-3bb23039ad67/public_url">
+    <img  width="150" src="https://user-images.githubusercontent.com/27865066/178056306-6d7111b9-28b8-4c35-863f-7e6bcd803b6a.png">
+  </a>
+</p>
+<br>
 
 ###  Programming languagues & tools 🛠
 #
