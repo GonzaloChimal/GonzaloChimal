@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 #
 <p align="center">
   <a href="https://gonzalochimal.github.io/Challenge01-Encriptador/">
-    <img  width="150" heigth="150" src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
+    <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
   </a>
   <a href="https://gonzalochimal.github.io/Challenge02-ahorcado/"> 
     <img  width="150" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
@@ -34,16 +34,16 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Data Science</p>
 <p align="center">
   <a href="https://www.credly.com/badges/c6b6d0f4-25a0-424c-b9a0-7e261b36ac82/public_url"> 
-    <img  width="120" src="https://user-images.githubusercontent.com/27865066/178058217-6608bf24-4741-48b7-83b7-e482e30e28a8.png">&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img  width="120" src="https://user-images.githubusercontent.com/27865066/178058217-6608bf24-4741-48b7-83b7-e482e30e28a8.png">&nbsp&nbsp
   </a>
   <a href="https://www.credly.com/badges/9c4d2ce0-886e-4b61-b541-3bc757c98784/public_url">
-    <img  width="120"  src="https://user-images.githubusercontent.com/27865066/178056615-15973c43-95be-4a87-90b1-a81828951e2d.png">&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img  width="120"  src="https://user-images.githubusercontent.com/27865066/178056615-15973c43-95be-4a87-90b1-a81828951e2d.png">&nbsp&nbsp
   </a>  
   <a href="https://www.credly.com/badges/fc7771f8-cb6e-40c3-a6ca-11762567cd00/public_url">
-    <img  width="120" src="https://user-images.githubusercontent.com/27865066/178056730-3e0b0b9d-9a1d-45ca-a771-81bcae012354.png">&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img  width="120" src="https://user-images.githubusercontent.com/27865066/178056730-3e0b0b9d-9a1d-45ca-a771-81bcae012354.png">&nbsp&nbsp
   </a>
   <a href="https://www.credly.com/badges/c92b5f9e-0187-4777-9e57-3bb23039ad67/public_url">
-    <img  width="120" src="https://user-images.githubusercontent.com/27865066/178056795-73b75be2-6aba-491c-af26-4f96511172f2.png">&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img  width="120" src="https://user-images.githubusercontent.com/27865066/178056795-73b75be2-6aba-491c-af26-4f96511172f2.png">&nbsp&nbsp
   </a>
 </p>
 <br>
