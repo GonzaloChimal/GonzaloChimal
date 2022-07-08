@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 ###  Badge IBM 🥇
 #
-<p align="center" font-size=15px>Data Science</p>
+<p align="center" font-size=medium>Data Science</p>
 <p align="center">
   <a href="https://www.credly.com/badges/c6b6d0f4-25a0-424c-b9a0-7e261b36ac82/public_url"> 
     <img  width="120" src="https://user-images.githubusercontent.com/27865066/178058217-6608bf24-4741-48b7-83b7-e482e30e28a8.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
