@@ -46,12 +46,12 @@ You can click the Preview link to take a look at your changes.
     <img  width="120" src="https://user-images.githubusercontent.com/27865066/178056795-73b75be2-6aba-491c-af26-4f96511172f2.png">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   </a>
 </p>
+<br>
 
 ###  Programming languagues & tools 🛠
 #
 <table width="100" align="center">
 <tr></tr>
-
 <tr>
     <td align='center' width="190">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60">
@@ -78,5 +78,4 @@ You can click the Preview link to take a look at your changes.
        <img src="https://www.insisoc.org/wp-content/uploads/2019/05/Logo-cuadrado-con-letra-Power-BI.png" width="60">
     </td>
 </tr>
-
 </table>
