@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Análisis de datos</p>
 <p align="center">
   <a href="https://www.credly.com/go/KXGAMHBc"> 
-    <img  width="120" src="https://user-images.githubusercontent.com/27865066/188284595-692e6dd5-0405-4546-b076-4be7eeea4e98.jpg">&nbsp&nbsp
+    <img  width="120" src="https://user-images.githubusercontent.com/27865066/188284697-3520ee7d-6f82-4c44-a801-da205075f63f.png">&nbsp&nbsp
   </a>
 </p>
 <br>
