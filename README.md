@@ -52,7 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 ###  Certificado Profesional Google + Coursera 🥇
 #
-<p align="center">Análisis de datos</p>
 <p align="center">
   <a href="https://www.credly.com/go/KXGAMHBc"> 
     <img  width="150" src="https://user-images.githubusercontent.com/27865066/188284697-3520ee7d-6f82-4c44-a801-da205075f63f.png">&nbsp&nbsp
