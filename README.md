@@ -26,8 +26,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://ecommerce-gonzalo-duran-chimal.netlify.app/">
     <img  width="150" src="https://user-images.githubusercontent.com/27865066/178053263-aaa27e21-04fe-4d18-b31b-d109065dca84.png">
   </a>
+  <a href="https://gonzalochimal.github.io/challenge-conversor_moneda/">
+    <img width="150" src="https://user-images.githubusercontent.com/27865066/188284537-2062be01-3d2f-49f7-999b-be61c04444a9.png">
+  </a>
 </p>
-<br>
 
 ###  Badge IBM 🥇
 #
@@ -44,6 +46,16 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://www.credly.com/badges/c92b5f9e-0187-4777-9e57-3bb23039ad67/public_url">
     <img  width="120" src="https://user-images.githubusercontent.com/27865066/178056795-73b75be2-6aba-491c-af26-4f96511172f2.png">&nbsp&nbsp
+  </a>
+</p>
+<br>
+
+###  Certificado Profesional Google + Coursera 🥇
+#
+<p align="center">Análisis de datos</p>
+<p align="center">
+  <a href="https://www.credly.com/go/KXGAMHBc"> 
+    <img  width="120" src="https://user-images.githubusercontent.com/27865066/188284595-692e6dd5-0405-4546-b076-4be7eeea4e98.jpg">&nbsp&nbsp
   </a>
 </p>
 <br>
