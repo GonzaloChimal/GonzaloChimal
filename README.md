@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
-###  Certificado Profesional Google + Coursera 🥇
+###  Badge Google + Coursera 🥇
 #
 <p align="center">
   <a href="https://www.credly.com/go/KXGAMHBc"> 
