@@ -34,6 +34,36 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<table width="100" align="center">
+<tr></tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png" width="60">
+    </td>
+    <td align='center' width="190" >
+        <img src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>   
+    <td align='center' width="190" >
+       <img src="https://www.insisoc.org/wp-content/uploads/2019/05/Logo-cuadrado-con-letra-Power-BI.png" width="60">
+    </td>
+</tr>
+</table>
+
 ###  Badge IBM 🥇
 #
 <p align="center">Data Science</p>
