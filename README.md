@@ -15,22 +15,22 @@ You can click the Preview link to take a look at your changes.
 #
 <p align="center">
   <a href="https://gonzalochimal.github.io/Challenge01-Encriptador/">
-    <img  width="135" src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
+    <img  width="145" src="https://user-images.githubusercontent.com/89808639/172972842-0bf8d44c-eb7c-47c6-81e8-9d5460d57d1a.png">
   </a>
   <a href="https://gonzalochimal.github.io/Challenge02-ahorcado/"> 
-    <img  width="135" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
+    <img  width="145" src="https://user-images.githubusercontent.com/89808639/172972855-67c89cc5-4c62-4187-a838-78a33c676208.png">
   </a>
   <a href="https://gonzalochimal.github.io/Challenge-03-MiPortafolio/">
-    <img  width="135" src="https://user-images.githubusercontent.com/89808639/175804421-0cee4c26-662f-4cf7-862d-458cd647362d.png">
+    <img  width="145" src="https://user-images.githubusercontent.com/89808639/175804421-0cee4c26-662f-4cf7-862d-458cd647362d.png">
   </a>
   <a href="https://ecommerce-gonzalo-duran-chimal.netlify.app/">
-    <img  width="135" src="https://user-images.githubusercontent.com/27865066/178053263-aaa27e21-04fe-4d18-b31b-d109065dca84.png">
+    <img  width="145" src="https://user-images.githubusercontent.com/27865066/178053263-aaa27e21-04fe-4d18-b31b-d109065dca84.png">
   </a>
   <a href="https://gonzalochimal.github.io/challenge-conversor_moneda/">
-    <img width="135" src="https://user-images.githubusercontent.com/27865066/188284537-2062be01-3d2f-49f7-999b-be61c04444a9.png">
+    <img width="145" src="https://user-images.githubusercontent.com/27865066/188284537-2062be01-3d2f-49f7-999b-be61c04444a9.png">
   </a>
   <a href="https://gonzalochimal.github.io/challenge-conversor_moneda/">
-    <img width="135" src="https://user-images.githubusercontent.com/27865066/192446465-2df2f86b-d4a3-4c67-9a30-0bdefcf5a24d.png">
+    <img width="145" src="https://user-images.githubusercontent.com/27865066/192446465-2df2f86b-d4a3-4c67-9a30-0bdefcf5a24d.png">
   </a>
 </p>
 
