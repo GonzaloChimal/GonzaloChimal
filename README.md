@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   </a>
   <a href="https://gonzalochimal.github.io/Challenge-03-MiPortafolio/">
     <img  width="145" src="https://user-images.githubusercontent.com/89808639/175804421-0cee4c26-662f-4cf7-862d-458cd647362d.png">
-  </a>
+  </a><br />
   <a href="https://ecommerce-gonzalo-duran-chimal.netlify.app/">
     <img  width="145" src="https://user-images.githubusercontent.com/27865066/178053263-aaa27e21-04fe-4d18-b31b-d109065dca84.png">
   </a>
