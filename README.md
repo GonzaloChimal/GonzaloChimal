@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">Data Science</p>
 <p align="center">
   <a href="https://www.credly.com/badges/c6b6d0f4-25a0-424c-b9a0-7e261b36ac82/public_url"> 
-    <img  width="1450" src="https://user-images.githubusercontent.com/27865066/178058217-6608bf24-4741-48b7-83b7-e482e30e28a8.png">&nbsp&nbsp
+    <img  width="145" src="https://user-images.githubusercontent.com/27865066/178058217-6608bf24-4741-48b7-83b7-e482e30e28a8.png">&nbsp&nbsp
   </a>
   <a href="https://www.credly.com/badges/9c4d2ce0-886e-4b61-b541-3bc757c98784/public_url">
     <img  width="145"  src="https://user-images.githubusercontent.com/27865066/178056615-15973c43-95be-4a87-90b1-a81828951e2d.png">&nbsp&nbsp
