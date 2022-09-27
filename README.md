@@ -29,6 +29,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://gonzalochimal.github.io/challenge-conversor_moneda/">
     <img width="150" src="https://user-images.githubusercontent.com/27865066/188284537-2062be01-3d2f-49f7-999b-be61c04444a9.png">
   </a>
+  <a href="https://gonzalochimal.github.io/challenge-conversor_moneda/">
+    <img width="150" src="https://user-images.githubusercontent.com/27865066/192446465-2df2f86b-d4a3-4c67-9a30-0bdefcf5a24d.png">
+  </a>
 </p>
 
 ###  Badge IBM 🥇
