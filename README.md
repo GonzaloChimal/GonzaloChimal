@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Gonzalo Duran Chimal
 - 👀 I’m interested in front end, data analyst, data visualization.
-- 🌱 I’m currently learning data analyst in Coursera by Google and programming in Oracle Next Education - Alura LATAM.
+- 🌱 I’m completed the courses data analyst in Coursera by Google and programming in Oracle Next Education - Alura LATAM.
 
 <!---
 GonzaloChimal/GonzaloChimal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
